@@ -1,1 +1,108 @@
-<mxfile host="app.diagrams.net" modified="2022-05-09T13:28:10.729Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="gxKkkiRGSPoDQ-axziLN" version="17.4.5" type="github"><diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">5VlNc6M4EP01OsbFN+gINs4csrXZma2a3dMWAcXWBCMvyBN7f/1KQsIINLaT2JlM2QcXakSDul+/fgLgTlfb2zpbL38jBSqBYxVb4M6A4wRhxP65YScNkTQsaly0Jntv+IL/Q9JoSesGF6jRJlJCSorXujEnVYVyqtmyuibP+rRHUup3XWcLNDJ8ybNybP2KC7psrZFv7e2fEF4s1Z1tS55ZZWqyNDTLrCDPPZObAndaE0Lbo9V2ikoeOxWX9rr5D852D1ajip5ygVttkvm2hvnuzlpXv3/908lub6SX71m5kQsGaQigB+IIpAFgyUpCYYEgSUDqg2QGoA9SCGIbJOIAzkDsyCXSnYobW+2aH25W5R1+RCWu2ChZoxqvEEU1O1NK8/3elrAs0ozZ+HlbjMsyWzf4Qbi1mKVG+aZu8Hf0GTUtWISVbKoCFXLURVoMaE2eutxxp+PAqSigmqJtzyQDeYsIe8B6x6aosyqpEtWRHD7vIdIBYdmDh6uMmYTlonO9zxw7kMl7QSKdcSKHKVkTXFFxXz8B/myQDlLTJVmQKiv7CXljYA9i7uRoe74W7NAU7HGsgzOEelZt/3j65n+myxA1xXb37/T2nxv7imLtWO8XbOMCfANBBQBOQTTjdBTFnIgYQcUJiOecjlgpcqZixJUCaPM5sQciT5CYBaLgypjK8e0PxlTBr1M9/kujPage1jVPKh777aE2MlV4PaG2jcC+TKyNC4iMRBXNOeukHkhizkOMlhhdcW3lcwLjSirg/4klJjMllY4yxEOCmSCNS7yomOmBUEpWLLKoKmKucLmtJPnTG/iEZvUCHUqPLFpUaGp5nJwalRllnKfrcEOs5aX3HH49XRUOsgr9idX7DRw2ZFPnSProS9+BWwdaQ7e6o3b9I0cCCN3qXl+HBsEwVtkH+lKcU8ILT0HhLntA5T1pMMVEg8QQK5SsmXVJV6VEANlQ3smm3W7JOpMgHgTYG1ej+56ywTVEvJUErqg9pgoYBBiqXVtEwLDp8YVeYCrD5ZoiaqXEnCsILjeE5eRSbRjAqCpWwp7qB+XLp8k9cHS8nNEW07/42YkvR39ro9lWXioGu96gx+aHEXDpgncG9R66r6twOzji6MIV7hnZf8DsfPsccwRelwR1o58oQY3ZMmwqPoAuOgisV+siJzhJF4XehWJtkPv87VEMoqmQQ3NBrWP6ZZJpLvZ2AZ/Apv0MXXRp+nOtQMsWS9859I7nhC9xe2FuNCjjYS57KcvLrGlwrssWvbJU37uxJrYfaq0vCuD5ml8b7uM80lfPh/ZhR9HUq1HfUKPK9uaeq4u1bvxSmLkD1de9mXsnYEGzyJtzLuHyLQEw5dSSJEL2BXwIp2PwsbQIRa1jLpO8kjNYoL76VoSzwkXBfbA2y7prtm+7495xItmrShmSffd5Q94E9L8gmJoAqwwn8qHeCc4Cnu7t506NBy7I42ODLpJuhbZfj0iOEoQK6kdhCBhMPLfXMPQu5VpwAqEPu9/r6KN7ZaPc2u9LHwq5w2354FOXUCT8JY542wzHQuTj8EdXIddGIGy4/5DaTt9/jXbT/wE=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-09T13:41:28.530Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="pIV9pDNlE2MW3QtHaUFa" version="17.4.5" type="github">
+  <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
+    <mxGraphModel dx="1415" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="用户注册页面" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="80" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
+          <mxGeometry x="45" y="70" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DnxQkj5Rth7esdxyqCG_-12" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
+          <mxGeometry x="45" y="153" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xjxl5RrPlnFee1k7i7ue-8" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-1">
+          <mxGeometry x="45" y="229" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value="服务端逻辑处理" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="251" y="80" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
+          <mxGeometry x="45" y="83" width="10" height="197" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-8" value="提交表单数据" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="175" y="188.0000000000001" as="sourcePoint" />
+            <mxPoint x="296" y="188.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DnxQkj5Rth7esdxyqCG_-2" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="-10" y="140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-3" value="输入&#xa;用户名、密码和确认密码" style="verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;shadow=0;strokeWidth=1;exitX=0.483;exitY=0.562;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="DnxQkj5Rth7esdxyqCG_-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="25" y="173" as="sourcePoint" />
+            <mxPoint x="165" y="173" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DnxQkj5Rth7esdxyqCG_-4" value="数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="381" y="80" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="DnxQkj5Rth7esdxyqCG_-5" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="DnxQkj5Rth7esdxyqCG_-4" vertex="1">
+          <mxGeometry x="45" y="102" width="10" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="xjxl5RrPlnFee1k7i7ue-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.157;exitY=0.869;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="DnxQkj5Rth7esdxyqCG_-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="44.99999999999983" y="249.99600000000004" as="sourcePoint" />
+            <mxPoint x="-73.43" y="249.99600000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xjxl5RrPlnFee1k7i7ue-5" value="返回结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xjxl5RrPlnFee1k7i7ue-4">
+          <mxGeometry x="-0.2859" y="1" relative="1" as="geometry">
+            <mxPoint x="-12" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DnxQkj5Rth7esdxyqCG_-6" value="查询用户信息" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="306" y="204.0000000000001" as="sourcePoint" />
+            <mxPoint x="427" y="204.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DnxQkj5Rth7esdxyqCG_-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.157;exitY=0.869;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="DnxQkj5Rth7esdxyqCG_-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="250" as="sourcePoint" />
+            <mxPoint x="306" y="246.30600000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DnxQkj5Rth7esdxyqCG_-9" value="返回结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DnxQkj5Rth7esdxyqCG_-8" vertex="1" connectable="0">
+          <mxGeometry x="-0.2859" y="1" relative="1" as="geometry">
+            <mxPoint x="-12" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DnxQkj5Rth7esdxyqCG_-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.157;exitY=0.869;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="296.43000000000006" y="269.9959999999999" as="sourcePoint" />
+            <mxPoint x="175" y="269.99599999999987" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xjxl5RrPlnFee1k7i7ue-1" value="用户已存在，&lt;br&gt;注册失败" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DnxQkj5Rth7esdxyqCG_-10">
+          <mxGeometry x="0.1628" y="-3" relative="1" as="geometry">
+            <mxPoint x="11" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xjxl5RrPlnFee1k7i7ue-2" value="用户不存在，&#xa;写入用户数据" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="307" y="294.0000000000001" as="sourcePoint" />
+            <mxPoint x="428.0000000000002" y="294.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xjxl5RrPlnFee1k7i7ue-3" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="427" y="273" width="10" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="xjxl5RrPlnFee1k7i7ue-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.157;exitY=0.869;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="296.43000000000006" y="346.99599999999987" as="sourcePoint" />
+            <mxPoint x="175" y="346.99599999999987" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xjxl5RrPlnFee1k7i7ue-7" value="注册成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xjxl5RrPlnFee1k7i7ue-6">
+          <mxGeometry x="0.1628" y="-3" relative="1" as="geometry">
+            <mxPoint x="11" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
