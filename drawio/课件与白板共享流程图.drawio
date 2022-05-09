@@ -1,1 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2022-05-09T18:09:29.301Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="Ngmaoxt12ZWJzZHVabKT" version="17.4.5" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7Zltc5s4EIB/jT46wzvoI2CStM1lck16ifslI4MMXDDiZDm2++srgTAmMMS9nH1Oph7PWFq9gHb3kXZloPvz9QVFRfIHiXAGNCVaA30MNP4xIP8Rkk0lsaBTCWKaRpVIbQS36Q8shYqULtMIL1odGSEZS4u2MCR5jkPWkiFKyardbUay9lMLFOOO4DZEWVd6n0YsqaSOZjfyS5zGSf1k1ZILnqO6s1zJIkERWe2I9ADoPiWEVaX52seZUF6tl/tPm/vs6sm6+Pzn4h/0zftyd/3XqJrs/FeGbJdAcc7+46nl3M8oW0qFgcAGngegDgILwDGA53L5bFPrlJJlHmExrwp0b5WkDN8WKBStK+5FXJaweSabZyRn0i1UrjMvztBC2FTh5QWj5GlrF9F7q2TRjGgoR+oOr+6phnpJmDK83nECqZYLTOaY0Q3vIltNU1pYurjqyPqqcRi19oJkx1kMKUPSR+Pt1I0deEGaot8sfn45u5nQp7U/yaZamIwvHtlIdTo6xxF3a1kllCUkJjnKgkbqNVYRumv6XBFSSO3+jRnbSJWiJSNtS+F1yh52yhMx1Zkpa+O1nLmsbOpKztf7sFvZGSWqzbCyVo/7NVsuyJKGUhHoWrl0v3y/sx+Xo3CFHkcb+6t0fYUhGmM2oFjZTyhz0DMozhBLn9t7yFvMPPTWLfgM4DmCPw6f4wNHLSWu+AYQcMd0YNnkAZfvU1bGF+tNKS/FogQCB7hWOcoEjgm8erjrCayhCxxDFFwXQLvscw5cveNrHMJCFLl5UJbhjMQUzdu+0iW3wDTlasH05cCbpqF3r2jvJg3z5QYhi2eafsgNYA/+bfOY/Nvvhf9/z/Hn73dfH7H5oIw2YeE/P1wHi2Ck6l2Qh9A5PsiDr90imePnC2J5wbUFsR/8GB2pysmdo/C9cHT8c3TofHz1HNX+L/z636YPPx688sOwG7yKd75CU57mtIyGsjTOeTnkiiyPKuH4Kc8jXNkwT6Oo8g/MTyU0zeozqiBpzsolmR4wx71GGfTODmLbbEg+pZVw9KLHD0jowBZ9tY32NoGc/UYsp5la7520Hk9mswV3lJcG3L7hG2yq9FruSOg2uE52af0I6Nqnha7Re3JCRcSxp4tu7Z1vR1c5UwxovA3Vw9PYl6nUG+zWXCLisYFX3yDw3KInQTFFk8hmbJGU8KioSlAcS+Qu3jmAQZnfBMA1uwFTQubT5eL1YKkbEA0lGYcKiDp5hWl24yHF6sZD8FDxkKadzqaq7rmpNvvoZLftOJuq/S7jIbt3T3U5UyW2jiM4rQAU/HIAYUkiFLcCntEH6atsvgsijZcZitpD5FEzlNoHfmcoexKpdYkcvNk+ESS1XiTFFZ1VAugBaJVXdAZwnRak0C8BNEuJMnhBOHDnV8qd8rDmsENTPsurqB+LneFjEH3AOwdebf7tqSKr5j8zPfgJ</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-09T18:12:09.301Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="MMNluCQhiqJNuNmbI4sn" version="17.4.5" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="2249" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;arcSize=38;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="550" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dCGP8nxiyUkQ06hMZDDs-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aN0HAKZT7_u-cwa_-y7R-0" target="dCGP8nxiyUkQ06hMZDDs-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aN0HAKZT7_u-cwa_-y7R-0" value="主持人绘制的内容&lt;br&gt;或展示的文件" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.23;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="50" y="180" width="175" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CnHfPYrkxCYlb2chDG_t-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JZTR_e5X0-ycpCvXNEsE-13" target="aN0HAKZT7_u-cwa_-y7R-0" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JZTR_e5X0-ycpCvXNEsE-13" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;arcSize=38;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-100" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CnHfPYrkxCYlb2chDG_t-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="200" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dCGP8nxiyUkQ06hMZDDs-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dCGP8nxiyUkQ06hMZDDs-0" target="dCGP8nxiyUkQ06hMZDDs-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dCGP8nxiyUkQ06hMZDDs-0" value="将绘制的内容发送给服务器" style="whiteSpace=wrap;html=1;strokeWidth=1;rounded=1;arcSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dCGP8nxiyUkQ06hMZDDs-2" value="服务器将内容发送给其他用户" style="whiteSpace=wrap;html=1;strokeWidth=1;rounded=1;arcSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
