@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-10T12:38:09.226Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="_jv_nzhPQkcjKBtUbUFO" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-10T12:39:36.793Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="DsssLuRExj-RhOKL4IMU" version="18.0.2" type="github">
   <diagram id="wwKvsSeiZdQgtGcbpDNy" name="第 1 页">
     <mxGraphModel dx="1422" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZdLB4hxc-VMSMGiIu3Mt-1" value="房间" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="90" width="90" height="40" as="geometry" />
+          <mxGeometry x="160" y="80" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZdLB4hxc-VMSMGiIu3Mt-2" value="用户id" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" width="50" height="80" as="geometry" />
@@ -29,13 +29,13 @@
           <mxGeometry x="290" width="50" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V3usEWxjDsNEp8bQgMbR-1" value="房间密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="120" width="50" height="80" as="geometry" />
+          <mxGeometry x="30" y="100" width="50" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V3usEWxjDsNEp8bQgMbR-2" value="描述信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="120" width="50" height="80" as="geometry" />
+          <mxGeometry x="330" y="100" width="50" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V3usEWxjDsNEp8bQgMbR-4" value="支持人密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="170" width="50" height="80" as="geometry" />
+          <mxGeometry x="180" y="140" width="50" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
